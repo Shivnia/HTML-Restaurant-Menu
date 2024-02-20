@@ -85,3 +85,12 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.locations{
+    list-style-type: none;
+}
+
+#Apps{
+        border: 3px solid black;
+        width: 100%;
+}
